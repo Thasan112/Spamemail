@@ -15,8 +15,6 @@ This project analyzes the UCI Spambase dataset using the **Bernoulli distributio
 
 ---
 
-## 🔍 Key Concepts
-
 ### 🎯 Bernoulli Distribution
 The Bernoulli distribution is used to model the probability of a binary outcome (success/failure). In this project, the outcome is:
 - `1` → Spam email
