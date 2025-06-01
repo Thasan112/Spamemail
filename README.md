@@ -1,4 +1,4 @@
-# 📧 Spam Classification Using Bernoulli Distribution
+# 📧 Spam Classification 
 
 This project analyzes the UCI Spambase dataset using the **Bernoulli distribution** to model the binary classification of emails as spam (`1`) or not spam (`0`). It demonstrates how probabilistic thinking, statistical modeling, and machine learning can be combined to build interpretable solutions to real-world problems.
 
